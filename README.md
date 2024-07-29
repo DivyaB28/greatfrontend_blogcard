@@ -34,8 +34,8 @@ In this challenge, you will develop a card featuring a user testimonial, includi
 
 ### Screenshot
 
-![Solution to Desktop design](design/desktop_solution.png)
-![Solution to Mobile design](design/mobile-solution.png)
+![Solution to Desktop design](designs/desktop_solution.png)
+![Solution to Mobile design](designs/mobile_solution.png)
 
 ## My process
 

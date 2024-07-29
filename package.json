@@ -1,0 +1,19 @@
+{
+  "name": "blog-card",
+  "version": "1.0.0",
+  "description": "a blog card featuring editorial content, including an article cover image, a content category tag, a title, a brief description, and a call-to-action (CTA) link",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "npx tailwindcss -i ./src/input.css -o ./output.css --watch"
+  },
+  "keywords": [
+    "greatfrontend",
+    "projects"
+  ],
+  "author": "Divya",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.4.7"
+  }
+}
